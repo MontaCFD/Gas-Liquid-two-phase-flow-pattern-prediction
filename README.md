@@ -1,4 +1,5 @@
 # Project Setup Guide
+
 ## 1. Create Virtual Environment
 python --version
 Python 3.10.3
@@ -26,7 +27,6 @@ pip freeze > requirements.txt
 > you might need to install latex (Texlive or Miketex)
 # Directory Structure
 project-root/
-│
 ├── venv/
 ├── data/
 ├── notebooks/
