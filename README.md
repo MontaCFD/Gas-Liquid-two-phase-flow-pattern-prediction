@@ -1,4 +1,4 @@
-# Project Setup Guide
+﻿# Project Setup Guide
 
 ## 1. Create Virtual Environment
 
@@ -68,7 +68,7 @@ pip freeze > requirements.txt
   py -3.10 .\flow_map_mechanistic_machine_learning.py
   ```
 
-- You might need to install LaTeX (Texlive or MikTeX) for document generation.
+- You might need to install LaTeX (Texlive or MikTeX) for plot generation.
 
 ## 6. Directory Structure
 
