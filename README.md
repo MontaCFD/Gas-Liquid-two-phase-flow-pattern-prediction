@@ -20,16 +20,10 @@ py -3.10 -m venv venv
 
 ## 2. Activate Virtual Environment
 
-Navigate to the `Scripts` directory:
-
-```bash
-cd venv\Scripts
-```
-
 Run the activation script:
 
 ```bash
-.\activate
+.\venv\Scripts\activate
 ```
 
 ## 3. Install Required Packages
