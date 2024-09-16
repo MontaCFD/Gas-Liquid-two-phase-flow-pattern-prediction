@@ -36,4 +36,3 @@ plt.pie(sum2, labels=sum2.index, autopct='%1.1f%%')
 plt.title('Additional validation of dataset')
 plt.show()
 #plt.savefig("Additional_Validation_dataset.pdf")
-#py -3.10 -m venv venv
