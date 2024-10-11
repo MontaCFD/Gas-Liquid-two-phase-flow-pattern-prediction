@@ -1,5 +1,8 @@
 # Gas Liquid flow pattern prediction in horizontal and slightly inclined pipes.
-This project presents a study to the prediction of flow pattern in horizontal an slightly inclined pipes using mechanistic model and machine learning. The results of this study are presented in this paper https://doi.org/10.1016/j.apm.2024.115748
+This project presents a study to the prediction of flow pattern in horizontal an slightly inclined pipes using mechanistic model and machine learning. The results of this study are presented in this [paper](https://doi.org/10.1016/j.apm.2024.115748) published in [Applied mathematical modelling](https://www.sciencedirect.com/journal/applied-mathematical-modelling). If you use our code for your own research, we would be grateful if you cite our publication:
+```bash
+M. Guesmi, J. Manthey, S. Unz et al., Gas Liquid flow pattern prediction in horizontal and slightly inclined pipes: From mechanistic modelling to machine learning, *Applied Mathematical Modelling*, 115748, doi: [https://doi.org/10.1016/j.apm.2024.115748](https://doi.org/10.1016/j.apm.2024.115748).
+```
  
  # Project Setup Guide
 
