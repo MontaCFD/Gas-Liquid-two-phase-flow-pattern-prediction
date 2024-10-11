@@ -1,4 +1,7 @@
-﻿# Project Setup Guide
+# Gas Liquid flow pattern prediction in horizontal and slightly inclined pipes.
+This project presents a study to the prediction of flow pattern in horizontal an slightly inclined pipes using mechanistic model and machine learning. The results of this study are presented in this paper https://doi.org/10.1016/j.apm.2024.115748
+ 
+ # Project Setup Guide
 
 ## 1. Create Virtual Environment
 
