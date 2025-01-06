@@ -32,8 +32,3 @@ class Fluid(object):
         self.Pr = cp.PropsSI('Prandtl', 'P', P*10**5, 'T', T + 273.15, media)
 
 
-class Forced(Fluid):
-    pass
-
-class Free(Fluid):
-    pass
